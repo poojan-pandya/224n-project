@@ -1,9 +1,0 @@
-{
-  "additional_special_tokens": [
-    "<SUMMARIZE>"
-  ],
-  "bos_token": "<BOS>",
-  "eos_token": "<EOS>",
-  "pad_token": "<PAD>",
-  "unk_token": "<|endoftext|>"
-}

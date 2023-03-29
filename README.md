@@ -1,6 +1,6 @@
 # 224n-project
 
-Have you ever wondered if you're an asshole? Our model can tell you for sure*! We developed a deep learning model which processes input text from the r/AmItheAsshole community on Reddit, and produces a natural language explanation for why (or why not) the poster is an asshole.
+Have you ever wondered if you're an asshole? Our model can tell you for sure*! We developed a deep learning model which processes input text from the r/AmItheAsshole community on Reddit, and produces a natural language explanation for why the poster is (or isn't) an asshole.
 
 \*Not sure at all, our model just seeks to imitate Reddit and has no basis for moral judgement
 
